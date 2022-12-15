@@ -29,6 +29,10 @@
 		{
 			"Name": "UdpMessaging",
 			"Enabled": false
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
